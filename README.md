@@ -4,7 +4,7 @@
 
 BridgeIt is a mobile-friendly web guide for UCLA students who need mental health support beyond CAPS's short-term care. It asks a few questions, recommends one best-fit resource at a time with the reasons it fits, and drafts an editable email or call script so reaching out feels easier.
 
-**Live prototype:** [add your Vercel link here]
+**Live prototype:** [bridgeit-ucla.vercel.app](https://bridgeit-ucla.vercel.app)
 
 **Product requirements doc:** [docs/product-management/bridgeit-prd.md](docs/product-management/bridgeit-prd.md) ([PDF](docs/product-management/BridgeIt_PRD.pdf))
 
